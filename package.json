@@ -1,0 +1,11 @@
+{
+  "name": "lodash-core",
+  "version": "1.0.0",
+  "description": "\"core build of lodash\"",
+  "main": "lodash.custom.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon@TechDecaf.com",
+  "license": "MIT"
+}
